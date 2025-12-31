@@ -1,11 +1,11 @@
 ### 🚀 About Me
 
 ```typescript
-const notics = {
-    currentWork: "N# Programming Language",
-    learning: "C#",
-    interests: ["Language Design", "Full Stack Development"],
-    askMeAbout: ["Programming", "Tech", "Coffee ☕"],
+const noticxs = {
+    currentWork: "Tuner",
+    learning: "Rust",
+    interests: ["Language Design", "I use Arch BTW"],
+    askMeAbout: ["Don't ask about programming", "Tech", "Coffee ☕", "Arch BTW"],
 }
 ```
 
@@ -19,13 +19,6 @@ const notics = {
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=noticxs&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=noticxs&theme=tokyonight" />
 </div>
 
 ### 🤝 Connect With Me
