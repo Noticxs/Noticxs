@@ -2,9 +2,9 @@
 
 ```typescript
 const noticxs = {
-    currentWork: "Champagne (ame)",
+    currentWork: "Nobeld (Nobel Daemon)",
     learning: "Rust",
-    interests: ["Language Design", "I use Arch BTW"],
-    askMeAbout: ["Don't ask about programming", "Tech", "Coffee ☕", "Arch BTW"],
+    interests: ["Language Design", "Fedora 😉"],
+    askMeAbout: ["Don't ask about programming", "Tech", "Coffee ☕"],
 }
 ```
