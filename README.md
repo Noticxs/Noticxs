@@ -4,7 +4,7 @@
 const noticxs = {
     currentWork: "Too much 🫪",
     learning: "C++",
-    interests: ["Language Design", "Fedora 😉"],
+    interests: ["Linux", "Artix"],
     askMeAbout: ["Ask about programming"],
 }
 ```
