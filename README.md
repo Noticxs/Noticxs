@@ -2,9 +2,9 @@
 
 ```typescript
 const noticxs = {
-    currentWork: "Too much 🫪",
+    currentWork: "Seraph WM",
     learning: "C++",
-    interests: ["Linux", "Artix"],
+    interests: ["Linux", "Gentoo"],
     askMeAbout: ["Ask about programming"],
 }
 ```
