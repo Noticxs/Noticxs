@@ -3,7 +3,7 @@
 ```typescript
 const noticxs = {
     currentWork: "Seraph WM",
-    learning: "C++",
+    learning: "Assembly",
     interests: ["Linux", "Gentoo"],
     askMeAbout: ["Ask about programming"],
 }
