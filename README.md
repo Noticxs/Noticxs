@@ -2,8 +2,8 @@
 
 ```typescript
 const noticxs = {
-    currentWork: "Seraph WM",
-    learning: "Assembly",
+    currentWork: "Ametrine Foundation",
+    learning: "Rust",
     interests: ["Linux", "Gentoo"],
     askMeAbout: ["Ask about programming"],
 }
